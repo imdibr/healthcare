@@ -64,3 +64,4 @@ Few things must be kept in mind:
 3) **Gradient Descent with Decaying Learning Rate** Source: https://arxiv.org/abs/1212.5701
 4) **RMSProp Algorithm** Source: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
 5) **AdaGrad Algorithm** Source: http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf
+"# healthcare" 
